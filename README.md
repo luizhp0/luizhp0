@@ -52,6 +52,8 @@ Sistema de mapeamento interativo da infraestrutura de TI, desenvolvido para faci
 
 **Tecnologias:** React, TypeScript, Supabase
 
+📸 **[Ver apresentação, funcionalidades e imagens do InfraTI](https://github.com/luizhp0/InfraTI-Showcase)** · Código-fonte privado (uso institucional)
+
 ### 🎫 ChamadosTI — Gestão de Suporte Técnico
 
 Plataforma para abertura, acompanhamento e gerenciamento de chamados técnicos, com controle de prioridades, histórico de atendimentos e relatórios.
