@@ -75,7 +75,7 @@ Projeto de ecossistema digital voltado ao setor agrícola, explorando o uso de i
 Estou sempre aberto a conhecer novas tecnologias, trocar experiências e participar de oportunidades na área de desenvolvimento.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/luizhenriquedepieri)
-- 📧 [Email](oficialluizff@gmail.com)
+- 📧 [Email](mailto:oficialluizff@gmail.com)
 - 💻 [GitHub](https://github.com/luizhp0)
 
 ---
