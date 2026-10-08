@@ -20,11 +20,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **Luiz Henrique de Pieri**, desenvolvedor de software e estudante de Engenharia de Software, apaixonado por tecnologia e pela criação de soluções que resolvem problemas reais.
+Sou **Luiz Henrique de Pieri**, desenvolvedor de software, formado no curso técnico em **Análise e Desenvolvimento de Sistemas pelo CEEP** e atualmente graduando em Engenharia de Software.
 
-Atuo na área de TI da Prefeitura Municipal de Rio Bonito do Iguaçu, onde adquiri experiência com suporte técnico, infraestrutura e desenvolvimento de sistemas.
+Atuo na área de TI da Prefeitura Municipal de Rio Bonito do Iguaçu, onde adquiri experiência com suporte técnico, infraestrutura e desenvolvimento de sistemas reais.
 
-Meu foco é evoluir constantemente como desenvolvedor, aprofundando meus conhecimentos em **C#, .NET, React e desenvolvimento Full Stack**.
+Meu foco é evoluir profissionalmente como desenvolvedor Full Stack, aprofundando meus conhecimentos em **C#, .NET, React e TypeScript**.
 
 - 🎓 Graduando em Engenharia de Software
 - 💼 Experiência com sistemas utilizados em ambientes reais
@@ -58,11 +58,11 @@ Plataforma para abertura, acompanhamento e gerenciamento de chamados técnicos, 
 
 **Tecnologias:** React, TypeScript, ASP.NET Core, PostgreSQL
 
-### 🏆 TinWork — Gestão de TI Escolar
+### 🏆 TinWork —  Plataforma Inteligente de Empregos
 
-Projeto voltado à organização e ao gerenciamento de recursos tecnológicos em ambientes educacionais.
+Plataforma de conexão entre candidatos e empresas, inspirada no conceito de match, facilitando a descoberta de oportunidades profissionais de forma simples e intuitiva.
 
-**Destaque:** 1º lugar em três rodadas do Inova Cantu.
+**Destaque:** 1º lugar no Inova Cantu.
 
 ### 🌱 IAgro — Tecnologia e Inteligência Artificial
 
