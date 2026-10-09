@@ -60,6 +60,8 @@ Plataforma para abertura, acompanhamento e gerenciamento de chamados técnicos, 
 
 **Tecnologias:** React, TypeScript, ASP.NET Core, PostgreSQL
 
+📸 **[Ver apresentação e imagens do ChamadosTI](https://github.com/luizhp0/ChamadosTI-Showcase)** · Código-fonte privado (uso institucional)
+
 ### 🏆 TinWork —  Plataforma Inteligente de Empregos
 
 Plataforma de conexão entre candidatos e empresas, inspirada no conceito de match, facilitando a descoberta de oportunidades profissionais de forma simples e intuitiva.
